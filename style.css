@@ -2,6 +2,8 @@
     font-size: 11px;
     text-align: center;
     padding-bottom: 20px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 300;
 }
 
 .attribution a {
@@ -30,11 +32,11 @@ img {
 h3 {
     font-family: "Outfit", sans-serif;
     font-weight: 700;
-    padding: 0 25px;
+    padding: 0 30px;
 }
 
 p {
     font-family: "Outfit", sans-serif;
-    font-weight: 400;
-    padding: 0 20px;
+    font-weight: 300;
+    padding: 0 30px;
 }
